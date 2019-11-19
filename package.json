@@ -1,0 +1,19 @@
+{
+  "name": "art-categorizer",
+  "version": "1.0.0",
+  "description": "I want to know which images from opengameart are tilesets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emnh/art-categorizer.git"
+  },
+  "author": "Eivind Magnus Hvidevold <hvidevold@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emnh/art-categorizer/issues"
+  },
+  "homepage": "https://github.com/emnh/art-categorizer#readme"
+}
